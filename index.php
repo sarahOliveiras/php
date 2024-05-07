@@ -1,6 +1,6 @@
 <?php
 	
-	echo "Teste";
+	echo "Teste1";
 	echo "Hcode";
 
 ?>
